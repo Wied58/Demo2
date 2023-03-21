@@ -9,6 +9,4 @@ for letter in word:
 # let's add a comment
 
 # another goofy comment
-# another goofy comment
-# another goofy comment
 
